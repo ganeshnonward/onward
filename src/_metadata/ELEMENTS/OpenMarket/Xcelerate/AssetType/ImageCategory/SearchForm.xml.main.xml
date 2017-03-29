@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description>SearchForm</description>
+    <elementname>OpenMarket/Xcelerate/AssetType/ImageCategory/SearchForm</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>OpenMarket/Xcelerate/AssetType/ImageCategory/SearchForm.xml</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/OpenMarket/Xcelerate/AssetType/ImageCategory/SearchForm.xml|UTF-8|_storable_type\=%2FELEMENTS%2FOpenMarket%2FXcelerate%2FAssetType%2FImageCategory%2FSearchForm.xml
+@hashval=343329195
+key=@ELEMENTCATALOG-OpenMarket/Xcelerate/AssetType/ImageCategory/SearchForm
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

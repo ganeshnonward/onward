@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:assetBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <id>OP_Digital_C:1459439384233</id>
+    <name>PathImage</name>
+    <createdby>fwadmin</createdby>
+    <createddate>2017-03-29T15:50:52.757Z</createddate>
+    <description></description>
+    <publist>onwardpath</publist>
+    <status>ED</status>
+    <subtype>Image</subtype>
+    <updatedby>fwadmin</updatedby>
+    <updateddate>2017-03-29T16:03:09.618Z</updateddate>
+    <attribute>
+        <name>startdate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>enddate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>filename</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>path</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>template</name>
+        <data>
+            <stringValue>BannerImage</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldoc</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>externaldoctype</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldocxml</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>fw_uid</name>
+        <data>
+            <stringValue>3f31d8d8-a62c-4a2b-82c7-5b3f47777cff</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>id</name>
+        <data>
+            <longValue>1459439384233</longValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>SegRating</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>fwtags</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Webreference</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>flextemplateid</name>
+        <data>
+            <stringValue>OP_Digital_CD:1459439388942</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>Relationships</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>AltText</name>
+        <data>
+            <stringValue>OnwardPath</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>Image</name>
+        <data>
+            <stringValue>OP_Digital_C:1459439384210</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>renderid</name>
+        <data/>
+    </attribute>
+    <associations>
+        <href>myPathassociations</href>
+    </associations>
+</ns2:assetBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_A</resType>
+      <resId>1459439388927</resId>
+      <uid>2f9b4ce3-8a9d-4e6c-9395-f9d15a83289d</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_A</resType>
+      <resId>1459439388932</resId>
+      <uid>49af1067-2dad-4cea-8063-3ffd039d3bee</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_Digital_C</resType>
+      <resId>1459439384210</resId>
+      <uid>ca5217fc-04c4-4d8c-b592-390d80dc1041</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_Digital_CD</resType>
+      <resId>1459439388942</resId>
+      <uid>1388e9a2-826e-43e9-b639-2ee944406b2b</uid>
+    </dependency>
+    <dependency>
+      <depType>N</depType>
+      <resType>OP_Digital_C</resType>
+      <resId>1459439384233</resId>
+      <uid>3f31d8d8-a62c-4a2b-82c7-5b3f47777cff</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>@ASSET_TYPE</resType>
+      <resId>OP_Digital_C</resId>
+      <uid>07b5dbc8-e38a-454b-be80-0623c21efddd</uid>
+    </dependency>
+  </linked-hash-set>
+</dependencies>
+==================______________________==================
+#
+assettype=OP_Digital_C
+key=OP_Digital_C-3f31d8d8-a62c-4a2b-82c7-5b3f47777cff
+type=ASSETDATA
+sites=onwardpath
+
+==================___ END METADATA ___==================-->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description>Error saving an asset</description>
+    <elementname>OpenMarket/Xcelerate/Errors/EnterAssetFailed</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>OpenMarket/Xcelerate/Errors/EnterAssetFailed.xml</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/OpenMarket/Xcelerate/Errors/EnterAssetFailed.xml|UTF-8|_storable_type\=%2FELEMENTS%2FOpenMarket%2FXcelerate%2FErrors%2FEnterAssetFailed.xml
+@hashval=4209110
+key=@ELEMENTCATALOG-OpenMarket/Xcelerate/Errors/EnterAssetFailed
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

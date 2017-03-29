@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:assetBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <id>WCS_Controller:1409142409856</id>
+    <name>ProfileBasedRecommendationController</name>
+    <createdby>fwadmin</createdby>
+    <createddate>2014-04-04T18:03:34.997Z</createddate>
+    <description>ProfileBasedRecommendationController</description>
+    <publist>avisports</publist>
+    <status>ED</status>
+    <subtype></subtype>
+    <updatedby>fwadmin</updatedby>
+    <updateddate>2016-03-31T15:50:26.371Z</updateddate>
+    <attribute>
+        <name>startdate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>enddate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>filename</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>path</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>template</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldoc</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>externaldoctype</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldocxml</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>fw_uid</name>
+        <data>
+            <stringValue>fc2a8404-bf9d-4c4a-b1c3-3322af61645e</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>id</name>
+        <data>
+            <longValue>1409142409856</longValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>fwtags</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Webreference</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>category</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>rootelement</name>
+        <data>
+            <stringValue>WCS_Controller/oracle/webcenter/sites/controller/ProfileBasedRecommendationController</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>elementname</name>
+        <data>
+            <stringValue>WCS_Controller/oracle/webcenter/sites/controller/ProfileBasedRecommendationController</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>resdetails1</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>resdetails2</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>url</name>
+        <data>
+            <blobValue>
+                <filename>WCS_Controller/oracle/webcenter/sites/controller/ProfileBasedRecommendationController,0.groovy</filename>
+                <foldername></foldername>
+                <filedata></filedata>
+            </blobValue>
+        </data>
+    </attribute>
+    <associations>
+        <href>myPathassociations</href>
+    </associations>
+</ns2:assetBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set>
+    <dependency>
+      <depType>N</depType>
+      <resType>WCS_Controller</resType>
+      <resId>1409142409856</resId>
+      <uid>fc2a8404-bf9d-4c4a-b1c3-3322af61645e</uid>
+    </dependency>
+  </linked-hash-set>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/WCS_Controller/oracle/webcenter/sites/controller/ProfileBasedRecommendationController.groovy|UTF-8|_storable_type\=%2FELEMENTS%2FWCS_Controller%2Foracle%2Fwebcenter%2Fsites%2Fcontroller%2FProfileBasedRecommendationController.groovy
+@hashval=1236870048
+assettype=WCS_Controller
+key=WCS_Controller-fc2a8404-bf9d-4c4a-b1c3-3322af61645e
+type=ASSETDATA
+sites=avisports
+
+==================___ END METADATA ___==================-->

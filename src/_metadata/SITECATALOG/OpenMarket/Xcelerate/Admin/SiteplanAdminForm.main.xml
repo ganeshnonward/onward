@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:siteCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <acl></acl>
+    <cscacheinfo>false</cscacheinfo>
+    <csstatus>live</csstatus>
+    <defaultArgs>
+        <entry>
+            <key xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">PagePath</key>
+            <value xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">OpenMarket/Xcelerate/AssetType/SiteNavigation</value>
+        </entry>
+        <entry>
+            <key xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">ThisPage</key>
+            <value xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">AdminForm</value>
+        </entry>
+    </defaultArgs>
+    <pagecriteria xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">ft_ss</pagecriteria>
+    <pagelet>false</pagelet>
+    <pagename>OpenMarket/Xcelerate/Admin/SiteplanAdminForm</pagename>
+    <rootelement>OpenMarket/Xcelerate/UIFramework/AdminPage</rootelement>
+    <sscacheinfo>false</sscacheinfo>
+</ns2:siteCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+key=@SITECATALOG-OpenMarket/Xcelerate/Admin/SiteplanAdminForm
+type=SITECATALOG
+
+==================___ END METADATA ___==================-->

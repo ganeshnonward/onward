@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:assetBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <id>OP_Content_C:1459439384331</id>
+    <name>CoffeeItem</name>
+    <createdby>fwadmin</createdby>
+    <createddate>2017-03-29T15:55:53.561Z</createddate>
+    <description></description>
+    <publist>onwardpath</publist>
+    <status>PL</status>
+    <subtype>Banner Content</subtype>
+    <updatedby>fwadmin</updatedby>
+    <updateddate>2017-03-29T15:55:53.561Z</updateddate>
+    <attribute>
+        <name>startdate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>enddate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>filename</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>path</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>template</name>
+        <data>
+            <stringValue>BannerItem</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldoc</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>externaldoctype</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldocxml</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>fw_uid</name>
+        <data>
+            <stringValue>1403d5e7-4222-422b-b5eb-043fadb3ad10</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>id</name>
+        <data>
+            <longValue>1459439384331</longValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>SegRating</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>fwtags</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Webreference</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>flextemplateid</name>
+        <data>
+            <stringValue>OP_Content_CD:1459439383630</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>Relationships</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Title</name>
+        <data>
+            <stringValue>Rest Easy</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>ShortTitle</name>
+        <data>
+            <stringValue>OnwardPath is on the job</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>ButtonText</name>
+        <data>
+            <stringValue>Discover Why</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>BannerImage</name>
+        <data>
+            <stringValue>OP_Digital_C:1459439384305</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>renderid</name>
+        <data/>
+    </attribute>
+    <associations>
+        <href>myPathassociations</href>
+    </associations>
+</ns2:assetBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_A</resType>
+      <resId>1459439383580</resId>
+      <uid>3664ddca-682c-4ae1-a0a6-caedf8e1535d</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_A</resType>
+      <resId>1459439383587</resId>
+      <uid>a9189725-79d3-429b-bc26-2f055e2a6cbc</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_A</resType>
+      <resId>1459439383593</resId>
+      <uid>b2ad4d8c-21e2-494d-84d5-51115d60b737</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_A</resType>
+      <resId>1459439383599</resId>
+      <uid>d952f376-f9fe-4d91-96df-2ffe7b9c7513</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_Content_CD</resType>
+      <resId>1459439383630</resId>
+      <uid>1beabe07-45d1-4c22-9856-adde54a84ae7</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_Digital_C</resType>
+      <resId>1459439384305</resId>
+      <uid>c8edf0cd-969f-4151-b27a-e8ff9b016000</uid>
+    </dependency>
+    <dependency>
+      <depType>N</depType>
+      <resType>OP_Content_C</resType>
+      <resId>1459439384331</resId>
+      <uid>1403d5e7-4222-422b-b5eb-043fadb3ad10</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>@ASSET_TYPE</resType>
+      <resId>OP_Content_C</resId>
+      <uid>03379212-5973-412a-8bb4-6cf467b41162</uid>
+    </dependency>
+  </linked-hash-set>
+</dependencies>
+==================______________________==================
+#
+assettype=OP_Content_C
+key=OP_Content_C-1403d5e7-4222-422b-b5eb-043fadb3ad10
+type=ASSETDATA
+sites=onwardpath
+
+==================___ END METADATA ___==================-->

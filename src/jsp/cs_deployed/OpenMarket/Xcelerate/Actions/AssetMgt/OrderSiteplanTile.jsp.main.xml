@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description>Display SiteNavigations for a site</description>
+    <elementname>OpenMarket/Xcelerate/Actions/AssetMgt/OrderSiteplanTile</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>OpenMarket/Xcelerate/Actions/AssetMgt/OrderSiteplanTile.jsp</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/JSP/OpenMarket/Xcelerate/Actions/AssetMgt/OrderSiteplanTile.jsp|UTF-8|_storable_type\=%2FELEMENTS%2FJSP%2FOpenMarket%2FXcelerate%2FActions%2FAssetMgt%2FOrderSiteplanTile.jsp
+@hashval=1744428460
+key=@ELEMENTCATALOG-OpenMarket/Xcelerate/Actions/AssetMgt/OrderSiteplanTile
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description></description>
+    <elementname>CustomElements/avisports/UI/Layout/CenterPane/Search/View/ThumbnailViewConfig</elementname>
+    <resDetails1>merge=false</resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>CustomElements/avisports/UI/Layout/CenterPane/Search/View/ThumbnailViewConfig.jsp</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/JSP/CustomElements/avisports/UI/Layout/CenterPane/Search/View/ThumbnailViewConfig.jsp|UTF-8|_storable_type\=%2FELEMENTS%2FJSP%2FCustomElements%2Favisports%2FUI%2FLayout%2FCenterPane%2FSearch%2FView%2FThumbnailViewConfig.jsp
+@hashval=-1139029637
+key=@ELEMENTCATALOG-CustomElements/avisports/UI/Layout/CenterPane/Search/View/ThumbnailViewConfig
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

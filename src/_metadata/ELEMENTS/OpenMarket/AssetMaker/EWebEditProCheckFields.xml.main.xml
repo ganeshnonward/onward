@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description>Javascript for content form having eWebEditPro fields</description>
+    <elementname>OpenMarket/AssetMaker/EWebEditProCheckFields</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>OpenMarket/AssetMaker/EWebEditProCheckFields.xml</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/OpenMarket/AssetMaker/EWebEditProCheckFields.xml|UTF-8|_storable_type\=%2FELEMENTS%2FOpenMarket%2FAssetMaker%2FEWebEditProCheckFields.xml
+@hashval=1315302714
+key=@ELEMENTCATALOG-OpenMarket/AssetMaker/EWebEditProCheckFields
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

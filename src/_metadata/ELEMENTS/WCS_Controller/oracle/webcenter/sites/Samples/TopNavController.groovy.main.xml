@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:assetBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <id>WCS_Controller:1411062372143</id>
+    <name>TopNavController</name>
+    <createdby>fwadmin</createdby>
+    <createddate>2014-09-19T16:03:39.980Z</createddate>
+    <description>Top Navigation Controller</description>
+    <publist>Samples</publist>
+    <status>ED</status>
+    <subtype></subtype>
+    <updatedby>fwadmin</updatedby>
+    <updateddate>2014-10-27T20:00:19.213Z</updateddate>
+    <attribute>
+        <name>startdate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>enddate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>filename</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>path</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>template</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldoc</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>externaldoctype</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldocxml</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>fw_uid</name>
+        <data>
+            <stringValue>07ab90b1-eae2-448b-bde3-8c26d2e94fb0</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>id</name>
+        <data>
+            <longValue>1411062372143</longValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>fwtags</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Webreference</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>category</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>rootelement</name>
+        <data>
+            <stringValue>WCS_Controller/oracle/webcenter/sites/Samples/TopNavController</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>elementname</name>
+        <data>
+            <stringValue>WCS_Controller/oracle/webcenter/sites/Samples/TopNavController</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>resdetails1</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>resdetails2</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>url</name>
+        <data>
+            <blobValue>
+                <filename>WCS_Controller/oracle/webcenter/sites/Samples/TopNavController.groovy</filename>
+                <foldername></foldername>
+                <filedata></filedata>
+            </blobValue>
+        </data>
+    </attribute>
+    <associations>
+        <href>myPathassociations</href>
+    </associations>
+</ns2:assetBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set>
+    <dependency>
+      <depType>N</depType>
+      <resType>WCS_Controller</resType>
+      <resId>1411062372143</resId>
+      <uid>07ab90b1-eae2-448b-bde3-8c26d2e94fb0</uid>
+    </dependency>
+  </linked-hash-set>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/WCS_Controller/oracle/webcenter/sites/Samples/TopNavController.groovy|UTF-8|_storable_type\=%2FELEMENTS%2FWCS_Controller%2Foracle%2Fwebcenter%2Fsites%2FSamples%2FTopNavController.groovy
+@hashval=-512352700
+assettype=WCS_Controller
+key=WCS_Controller-07ab90b1-eae2-448b-bde3-8c26d2e94fb0
+type=ASSETDATA
+sites=Samples
+
+==================___ END METADATA ___==================-->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description></description>
+    <elementname>AdminUI/Layout/LeftNavigationAction</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>AdminUI/Layout/LeftNavigationAction.jsp</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/JSP/AdminUI/Layout/LeftNavigationAction.jsp|UTF-8|_storable_type\=%2FELEMENTS%2FJSP%2FAdminUI%2FLayout%2FLeftNavigationAction.jsp
+@hashval=-316789862
+key=@ELEMENTCATALOG-AdminUI/Layout/LeftNavigationAction
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

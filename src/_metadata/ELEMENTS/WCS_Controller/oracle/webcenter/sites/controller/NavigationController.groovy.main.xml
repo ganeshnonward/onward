@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description></description>
+    <elementname>WCS_Controller/oracle/webcenter/sites/controller/NavigationController</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>WCS_Controller/oracle/webcenter/sites/controller/NavigationController,0.groovy</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/WCS_Controller/oracle/webcenter/sites/controller/NavigationController.groovy|UTF-8|_storable_type\=%2FELEMENTS%2FWCS_Controller%2Foracle%2Fwebcenter%2Fsites%2Fcontroller%2FNavigationController.groovy
+@hashval=-2037870439
+key=@ELEMENTCATALOG-WCS_Controller/oracle/webcenter/sites/controller/NavigationController
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

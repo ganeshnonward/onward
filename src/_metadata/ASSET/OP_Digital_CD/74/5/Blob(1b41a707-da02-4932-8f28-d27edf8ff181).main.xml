@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:assetBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <id>OP_Digital_CD:1459439388937</id>
+    <name>Blob</name>
+    <createdby>fwadmin</createdby>
+    <createddate>2017-03-28T18:44:59.633Z</createddate>
+    <description>Blob</description>
+    <publist>onwardpath</publist>
+    <status>ED</status>
+    <subtype></subtype>
+    <updatedby>fwadmin</updatedby>
+    <updateddate>2017-03-29T14:41:24.229Z</updateddate>
+    <attribute>
+        <name>startdate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>enddate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>filename</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>path</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>template</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldoc</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>externaldoctype</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldocxml</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>fw_uid</name>
+        <data>
+            <stringValue>1b41a707-da02-4932-8f28-d27edf8ff181</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>id</name>
+        <data>
+            <longValue>1459439388937</longValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>fwtags</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Webreference</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>renderid</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Attributes</name>
+        <data>
+            <listValue>
+                <item>
+                    <item>
+                        <name>assetid</name>
+                        <data>
+                            <stringValue>OP_A:1459439388921</stringValue>
+                        </data>
+                    </item>
+                    <item>
+                        <name>required</name>
+                        <data>
+                            <stringValue>true</stringValue>
+                        </data>
+                    </item>
+                    <item>
+                        <name>ordinal</name>
+                        <data>
+                            <integerValue>1</integerValue>
+                        </data>
+                    </item>
+                </item>
+            </listValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>Groups</name>
+        <data>
+            <listValue/>
+        </data>
+    </attribute>
+    <attribute>
+        <name>Filters</name>
+        <data/>
+    </attribute>
+    <associations>
+        <href>myPathassociations</href>
+    </associations>
+</ns2:assetBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set>
+    <dependency>
+      <depType>E</depType>
+      <resType>OP_A</resType>
+      <resId>1459439388921</resId>
+      <uid>9773cb51-c087-4d04-9546-58297a865d4c</uid>
+    </dependency>
+    <dependency>
+      <depType>N</depType>
+      <resType>OP_Digital_CD</resType>
+      <resId>1459439388937</resId>
+      <uid>1b41a707-da02-4932-8f28-d27edf8ff181</uid>
+    </dependency>
+    <dependency>
+      <depType>E</depType>
+      <resType>@ASSET_TYPE</resType>
+      <resId>OP_Digital_CD</resId>
+      <uid>fe6a6ecc-499a-4df2-b892-a4a4c543b90c</uid>
+    </dependency>
+  </linked-hash-set>
+</dependencies>
+==================______________________==================
+#
+assettype=OP_Digital_CD
+key=OP_Digital_CD-1b41a707-da02-4932-8f28-d27edf8ff181
+type=ASSETDATA
+sites=onwardpath
+
+==================___ END METADATA ___==================-->

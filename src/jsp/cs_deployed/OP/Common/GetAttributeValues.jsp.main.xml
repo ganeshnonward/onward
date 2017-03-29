@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:assetBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <id>CSElement:1459439383792</id>
+    <name>OP/Common/GetAttributeValues</name>
+    <createdby>fwadmin</createdby>
+    <createddate>2017-03-29T13:07:49.421Z</createddate>
+    <description></description>
+    <publist>onwardpath</publist>
+    <status>ED</status>
+    <subtype></subtype>
+    <updatedby>fwadmin</updatedby>
+    <updateddate>2017-03-29T14:12:59.327Z</updateddate>
+    <attribute>
+        <name>startdate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>enddate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>filename</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>path</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>template</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldoc</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>externaldoctype</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldocxml</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>fw_uid</name>
+        <data>
+            <stringValue>72e65229-e3a8-4e0a-98a6-b62e39090ec8</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>id</name>
+        <data>
+            <longValue>1459439383792</longValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>fwtags</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Webreference</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Composition</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Mapping</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Arguments</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>category</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>rootelement</name>
+        <data>
+            <stringValue>OP/Common/GetAttributeValues</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>elementname</name>
+        <data>
+            <stringValue>OP/Common/GetAttributeValues</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>resdetails1</name>
+        <data>
+            <stringValue>eid=1459439383792</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>resdetails2</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>url</name>
+        <data>
+            <blobValue>
+                <filename>OP\Common\GetAttributeValues.jsp</filename>
+                <foldername></foldername>
+                <filedata></filedata>
+            </blobValue>
+        </data>
+    </attribute>
+    <associations>
+        <href>myPathassociations</href>
+    </associations>
+</ns2:assetBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set>
+    <dependency>
+      <depType>N</depType>
+      <resType>CSElement</resType>
+      <resId>1459439383792</resId>
+      <uid>72e65229-e3a8-4e0a-98a6-b62e39090ec8</uid>
+    </dependency>
+  </linked-hash-set>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/JSP/OP/Common/GetAttributeValues.jsp|UTF-8|_storable_type\=%2FELEMENTS%2FJSP%2FOP%2FCommon%2FGetAttributeValues.jsp
+@hashval=-1175225475
+assettype=CSElement
+key=CSElement-72e65229-e3a8-4e0a-98a6-b62e39090ec8
+type=ASSETDATA
+sites=onwardpath
+
+==================___ END METADATA ___==================-->

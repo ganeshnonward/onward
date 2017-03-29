@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description>ContentForm</description>
+    <elementname>OpenMarket/Xcelerate/AssetType/ArticleCategory/ContentForm</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>OpenMarket/Xcelerate/AssetType/ArticleCategory/ContentForm.xml</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/OpenMarket/Xcelerate/AssetType/ArticleCategory/ContentForm.xml|UTF-8|_storable_type\=%2FELEMENTS%2FOpenMarket%2FXcelerate%2FAssetType%2FArticleCategory%2FContentForm.xml
+@hashval=2006698074
+key=@ELEMENTCATALOG-OpenMarket/Xcelerate/AssetType/ArticleCategory/ContentForm
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

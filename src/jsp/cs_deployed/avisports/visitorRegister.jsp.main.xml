@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:assetBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <id>CSElement:1449214805335</id>
+    <name>avisports/visitorRegister</name>
+    <createdby>fwadmin</createdby>
+    <createddate>2015-12-18T05:59:02.203Z</createddate>
+    <description>Register a new visitor</description>
+    <publist>avisports</publist>
+    <status>PL</status>
+    <subtype></subtype>
+    <updatedby>fwadmin</updatedby>
+    <updateddate>2015-12-18T05:59:02.203Z</updateddate>
+    <attribute>
+        <name>startdate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>enddate</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>filename</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>path</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>template</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldoc</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>externaldoctype</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>urlexternaldocxml</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>fw_uid</name>
+        <data>
+            <stringValue>07c86803-dd65-453c-a8c9-274d48c61d1e</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>id</name>
+        <data>
+            <longValue>1449214805335</longValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>fwtags</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Webreference</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Composition</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Mapping</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>Arguments</name>
+        <data/>
+    </attribute>
+    <attribute>
+        <name>category</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>rootelement</name>
+        <data>
+            <stringValue>avisports/visitorRegister</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>elementname</name>
+        <data>
+            <stringValue>avisports/visitorRegister</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>resdetails1</name>
+        <data>
+            <stringValue>eid=1449214805335</stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>resdetails2</name>
+        <data>
+            <stringValue></stringValue>
+        </data>
+    </attribute>
+    <attribute>
+        <name>url</name>
+        <data>
+            <blobValue>
+                <filename>avisports/visitorRegister.jsp</filename>
+                <foldername></foldername>
+                <filedata></filedata>
+            </blobValue>
+        </data>
+    </attribute>
+    <associations>
+        <href>myPathassociations</href>
+    </associations>
+</ns2:assetBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set>
+    <dependency>
+      <depType>N</depType>
+      <resType>CSElement</resType>
+      <resId>1449214805335</resId>
+      <uid>07c86803-dd65-453c-a8c9-274d48c61d1e</uid>
+    </dependency>
+  </linked-hash-set>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/JSP/avisports/visitorRegister.jsp|UTF-8|_storable_type\=%2FELEMENTS%2FJSP%2Favisports%2FvisitorRegister.jsp
+@hashval=1286494378
+assettype=CSElement
+key=CSElement-07c86803-dd65-453c-a8c9-274d48c61d1e
+type=ASSETDATA
+sites=avisports
+
+==================___ END METADATA ___==================-->

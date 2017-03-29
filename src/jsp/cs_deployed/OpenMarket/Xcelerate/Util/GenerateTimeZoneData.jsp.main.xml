@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description>Generates javascripts necessary for collecting daylight savings changes of past years.</description>
+    <elementname>OpenMarket/Xcelerate/Util/GenerateTimeZoneData</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>OpenMarket/Xcelerate/Util/GenerateTimeZoneData.jsp</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/JSP/OpenMarket/Xcelerate/Util/GenerateTimeZoneData.jsp|UTF-8|_storable_type\=%2FELEMENTS%2FJSP%2FOpenMarket%2FXcelerate%2FUtil%2FGenerateTimeZoneData.jsp
+@hashval=2047944973
+key=@ELEMENTCATALOG-OpenMarket/Xcelerate/Util/GenerateTimeZoneData
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description></description>
+    <elementname>OpenMarket/Xcelerate/AssetType/SiteNavigation/SiteplanMgt/DoModify</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>OpenMarket/Xcelerate/AssetType/SiteNavigation/SiteplanMgt/DoModify.jsp</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/JSP/OpenMarket/Xcelerate/AssetType/SiteNavigation/SiteplanMgt/DoModify.jsp|UTF-8|_storable_type\=%2FELEMENTS%2FJSP%2FOpenMarket%2FXcelerate%2FAssetType%2FSiteNavigation%2FSiteplanMgt%2FDoModify.jsp
+@hashval=-1497789485
+key=@ELEMENTCATALOG-OpenMarket/Xcelerate/AssetType/SiteNavigation/SiteplanMgt/DoModify
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

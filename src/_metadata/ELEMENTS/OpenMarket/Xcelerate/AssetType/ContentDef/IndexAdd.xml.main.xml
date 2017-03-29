@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description></description>
+    <elementname>OpenMarket/Xcelerate/AssetType/ContentDef/IndexAdd</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>OpenMarket/Xcelerate/AssetType/ContentDef/IndexAdd.xml</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/OpenMarket/Xcelerate/AssetType/ContentDef/IndexAdd.xml|UTF-8|_storable_type\=%2FELEMENTS%2FOpenMarket%2FXcelerate%2FAssetType%2FContentDef%2FIndexAdd.xml
+@hashval=-1664267839
+key=@ELEMENTCATALOG-OpenMarket/Xcelerate/AssetType/ContentDef/IndexAdd
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->

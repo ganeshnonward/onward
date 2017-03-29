@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:elementCatalogBean xmlns:ns2="http://www.fatwire.com/schema/rest/1.0">
+    <description>PostUpdate</description>
+    <elementname>OpenMarket/Xcelerate/AssetType/AVIImage/PostUpdate</elementname>
+    <resDetails1></resDetails1>
+    <resDetails2></resDetails2>
+    <urlSpec>OpenMarket/Xcelerate/AssetType/AVIImage/PostUpdate.xml</urlSpec>
+</ns2:elementCatalogBean>
+
+<!--==================___ METADATA ___================
+<dependencies>
+  <linked-hash-set/>
+</dependencies>
+==================______________________==================
+#
+storable0=/ELEMENTS/OpenMarket/Xcelerate/AssetType/AVIImage/PostUpdate.xml|UTF-8|_storable_type\=%2FELEMENTS%2FOpenMarket%2FXcelerate%2FAssetType%2FAVIImage%2FPostUpdate.xml
+@hashval=2119138203
+key=@ELEMENTCATALOG-OpenMarket/Xcelerate/AssetType/AVIImage/PostUpdate
+type=ELEMENTCATALOG
+
+==================___ END METADATA ___==================-->
